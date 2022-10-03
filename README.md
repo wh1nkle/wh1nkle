@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wh1nkle
+- 👀 I’m interested in developing my skills to change career paths
+- 🌱 I’m currently learning about data analytics
